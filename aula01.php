@@ -10,8 +10,8 @@
     echo "Olá Mundo<br>";
 
     // Variáveis em PHP
-    $nome = "Carlinhos";
-    $preco = 11.90;
+    $nome = "Gabriel";
+    $preco = 12.50;
     $soma = $preco * 4;
     $soma = number_format(num: $soma,decimals: 2);
 
